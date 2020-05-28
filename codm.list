@@ -1,2 +1,7 @@
 # > Call of Duty Mobile 
-DOMAIN-SUFFIX,receiver.sg.tdm.qq.com
+DOMAIN-SUFFIX,sg.tdm.qq.com
+DOMAIN-SUFFIX,garenanow.com
+DOMAIN-SUFFIX,codm.activision.com
+DOMAIN-SUFFIX,sg.itopsdk.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,sg.voice.gcloudcs.com

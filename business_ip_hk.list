@@ -1,5 +1,5 @@
-IP-CIDR,52.136.0.0/13,no-resolve
+# IP-CIDR,52.136.0.0/13,no-resolve
 IP-CIDR,88.227.128.0/17,no-resolve
 IP-CIDR,156.245.2.0/24,no-resolve
 
-IP-CIDR,192.81.245.0/24,no-resolve #official
+# IP-CIDR,192.81.245.0/24,no-resolve #official

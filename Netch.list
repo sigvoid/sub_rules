@@ -1,19 +1,4 @@
 # > Netch
+PROCESS-NAME,pcap2socks.exe
+PROCESS-NAME,v2ray-sn.exe
 PROCESS-NAME,Netch.exe
-PROCESS-NAME,ck-client.exe
-PROCESS-NAME,dns2tcp.exe
-PROCESS-NAME,NTT.exe
-PROCESS-NAME,Privoxy.exe
-PROCESS-NAME,Redirector.exe
-PROCESS-NAME,Redirector2.exe
-PROCESS-NAME,Shadowsocks.exe
-PROCESS-NAME,ShadowsocksR.exe
-PROCESS-NAME,simple-obfs.exe
-PROCESS-NAME,Trojan.exe
-PROCESS-NAME,tun2socks.exe
-PROCESS-NAME,unbound.exe
-PROCESS-NAME,v2ctl.exe
-PROCESS-NAME,v2ray-plugin.exe
-PROCESS-NAME,v2ray.exe
-PROCESS-NAME,wv2ray.exe
-PROCESS-NAME,tapinstall.exe
